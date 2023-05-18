@@ -1,5 +1,6 @@
-<h1 align="center">Hello, hello, my name is Brendan 🫡</h1>
+<h1 align="center">Hello, hello, my name is Brendan 🫡</h1> 
 <h3 align="center">I live in that Northern-most of the Carolinas & am currently enrolled in <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
+<h3> 👨🏻‍💻 Check out all my projects on <a href="https://bhoconnor.github.io/personal-portfolio/" target="_blank">my portfolio website</a>.</h3> 
 
 <h3 align="left" >Coding skills:</h3>
 <p align="left">
