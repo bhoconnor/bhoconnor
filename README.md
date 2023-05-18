@@ -25,7 +25,7 @@
 
 <h3 align="left" >💡 Fun fact:</h3>
 
-<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳</p>
+<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳-related.</p>
 
 <h3 align="left" >Coding stats:</h3>
 
