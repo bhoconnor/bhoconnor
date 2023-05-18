@@ -20,8 +20,8 @@
 
 <h3 align="left">Get in touch!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhoconnor/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
-<a href="bhoconnor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="https://www.linkedin.com/in/bhoconnor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
+<a href="mailto:bhoconnor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 </p>
 
 <h3 align="left" >💡 Fun fact:</h3>
