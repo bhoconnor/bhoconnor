@@ -1,6 +1,8 @@
 <h1 align="center">Hello, hello, my name is Brendan 🫡</h1> 
 <h3 align="center">I live in that Northern-most of the Carolinas & am currently enrolled in <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
-<h3> 👨🏻‍💻 Check out all my projects on <a href="https://bhoconnor.github.io/personal-portfolio/" target="_blank">my portfolio website</a>.</h3> 
+
+<h3 align="left" >My work:</h3>
+<h4> Check out my 👨🏻‍💻 coding projects on <a href="https://bhoconnor.github.io/personal-portfolio/" target="_blank">my portfolio website</a>, some of my more 🔨creative side <a href="http://www.behance.net/bhoconnor">on my Behance portfolio</a>, & my broader 📚 <a href="https://www.linkedin.com/in/bhoconnor/">history of work on LinkedIn</a>.</p></h4> 
 
 <h3 align="left" >Coding skills:</h3>
 <p align="left">
@@ -18,15 +20,15 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-23cfcf?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
  <a><img src="https://img.shields.io/badge/SQLite-23cfcf?style=for-the-badge&logo=sqlite&logoColor=0078D4"/></a>
 
-<h3 align="left">Get in touch!</h3>
+<h3 align="left">Get in touch or follow me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhoconnor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
-<a href="mailto:bhoconnor@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<!-- <a href="mailto:bhoconnor@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a> -->
 </p>
 
 <h3 align="left" >Fun fact:</h3>
 
-<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳-related--check out some of my creative side <a href="http://www.behance.net/bhoconnor">on my Behance portfolio</a>.</p>
+<p> I love playing 🇮🇪 music, 🪵-working, & all things 🍳-related.
 
 <h3 align="left" >Coding stats:</h3>
 
