@@ -26,7 +26,7 @@
 
 <h3 align="left" >Fun fact:</h3>
 
-<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳-related.</p>
+<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳-related--check out some of my creative side <a href="http://www.behance.net/bhoconnor">on my Behance portfolio</a>.</p>
 
 <h3 align="left" >Coding stats:</h3>
 
