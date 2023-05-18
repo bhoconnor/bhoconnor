@@ -24,7 +24,7 @@
 <a href="mailto:bhoconnor@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 </p>
 
-<h3 align="left" >💡 Fun fact:</h3>
+<h3 align="left" >Fun fact:</h3>
 
 <p> I play some 🇮🇪 music & love 🪵-working & all things 🍳-related.</p>
 
