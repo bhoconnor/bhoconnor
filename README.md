@@ -1,4 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hello, hello, my name is Brendan 🫡</h1>
+<h3 align="center">I live in that Northern-most of the Carolinas & am currently enrolled in <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
+
+<h3 align="left" >Coding skills:</h3>
+<p align="left">
+<a><img src="https://img.shields.io/badge/JavaScript-23cfcf?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
+<a><img src="https://img.shields.io/badge/CSS3-23cfcf?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
+<a><img src="https://img.shields.io/badge/GIT-23cfcf?style=for-the-badge&logo=git&logoColor=E44C30"/></a>
+<a><img src="https://img.shields.io/badge/GitHub-23cfcf?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/HTML5-23cfcf?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
+<a><img src="https://img.shields.io/badge/json-23cfcf?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
+<a><img src="https://img.shields.io/badge/Markdown-23cfcf?style=for-the-badge&logo=markdown&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-23cfcf?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
+<a><img src="https://img.shields.io/badge/npm-23cfcf?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
+<a><img src="https://img.shields.io/badge/Postman-23cfcf?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>
+<a><img src="https://img.shields.io/badge/React-23cfcf?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Visual_Studio_Code-23cfcf?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
+ <a><img src="https://img.shields.io/badge/SQLite-23cfcf?style=for-the-badge&logo=sqlite&logoColor=0078D4"/></a>
+
+<h3 align="left">Get in touch!</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhoconnor/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
+<a href="bhoconnor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+</p>
+
+<h3 align="left" >💡 Fun fact:</h3>
+
+<p> I play some 🇮🇪 music & love 🪵-working & all things 🍳</p>
+
+<h3 align="left" >Coding stats:</h3>
+
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bhoconnor&show_icons=true&theme=tokyonight"  alt="bhoconnor"/>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoconnor&layout=compact&theme=tokyonight" alt="bhoconnor"/>
+
+</br>
+
 
 <!--
 **bhoconnor/bhoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +49,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
