@@ -1,10 +1,10 @@
 <h1 align="center">Hello, hello, I'm Brendan 🫡</h1> 
 <h3 align="center">I live in that Northern-most of the Carolinas & am currently enrolled in <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
 
-<h3 align="left" >My work:</h3>
+<h3 align="left" ><u>My work</u>:</h3>
 <h4> Check out 👨🏻‍💻 coding projects on <a href="https://bhoconnor.github.io/personal-portfolio/" target="_blank">my portfolio website</a>, some of my more 🔨creative side <a href="http://www.behance.net/bhoconnor">on my Behance portfolio</a>, & my broader 📚 <a href="https://www.linkedin.com/in/bhoconnor/">history of work on LinkedIn</a>.</h4> 
 
-<h3 align="left" >Coding skills:</h3>
+<h3 align="left" ><u>Coding skills</u>:</h3>
 <p align="left">
 <a><img src="https://img.shields.io/badge/JavaScript-23cfcf?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-23cfcf?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
@@ -20,17 +20,17 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-23cfcf?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
  <a><img src="https://img.shields.io/badge/SQLite-23cfcf?style=for-the-badge&logo=sqlite&logoColor=0078D4"/></a>
 
-<h3 align="left">Get in touch or follow me:</h3>
+<h3 align="left"><u>Get in touch or follow me</u>:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhoconnor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <!-- <a href="mailto:bhoconnor@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a> -->
 </p>
 
-<h3 align="left" >Fun fact:</h3>
+<h3 align="left" ><u>Fun fact</u>:</h3>
 
 <h4> I love playing 🇮🇪 music, 🪵-working, & all things 🍳-related.</h4>
 
-<h3 align="left" >Coding stats:</h3>
+<h3 align="left" ><u>Coding stats</u>:</h3>
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bhoconnor&show_icons=true&theme=tokyonight"  alt="bhoconnor"/>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoconnor&layout=compact&theme=tokyonight" alt="bhoconnor"/>
