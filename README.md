@@ -1,5 +1,5 @@
 <h1 align="center">Hello, hello, I'm Brendan 🫡</h1> 
-<h3 align="center">I live in that Northern-most of the Carolinas & am studied coding through <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
+<h3 align="center">I live in that Northern-most of the Carolinas & studied coding through <a href="https://codethedream.org/" target="_blank">Code The Dream</a>.</h3> 
 
 <h3 align="left" ><u>My work</u>:</h3>
 <h4> Check out 👨🏻‍💻 coding projects on <a href="https://bhoconnor.github.io/personal-portfolio/" target="_blank">my portfolio website</a>, some of my more 🔨creative side <a href="http://www.behance.net/bhoconnor">on my Behance portfolio</a>, & my broader 📚 <a href="https://www.linkedin.com/in/bhoconnor/">history of work on LinkedIn</a>.</h4> 
