@@ -30,10 +30,12 @@
 
 <h4> I love playing 🇮🇪 music, 🪵-working, & all things 🍳-related.</h4>
 
-<h3 align="left" ><u>Coding stats</u>:</h3>
+<!-- <h3 align="left" ><u>Coding stats</u>:</h3>
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=bhoconnor&show_icons=true&theme=tokyonight"  alt="bhoconnor"/>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoconnor&layout=compact&theme=tokyonight" alt="bhoconnor"/>
+
+-->
 
 </br>
 
